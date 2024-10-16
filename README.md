@@ -1,2 +1,11 @@
 # Barf
-little stack-based language written in Standard ML
+simple stack-based language written in Standard ML
+
+## Building
+dependencies: mlton
+
+compile with:
+```sh
+$ make
+```
+
